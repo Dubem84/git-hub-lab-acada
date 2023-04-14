@@ -3,3 +3,4 @@ practice github
 git repo practice
 test scm webhook trigger
 echo 'this is git'
+echo 'this is test lab'
